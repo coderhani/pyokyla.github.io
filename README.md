@@ -8,8 +8,9 @@
 ## CONTACT US
 
 Lets reach us here : https://www.facebook.com/TravelTurku
+
 LinkedIn: https://www.linkedin.com/in/han-tran-29438b13a/
-          https://www.linkedin.com/in/pyökylä-bike-village-b1aa56226/
+         https://www.linkedin.com/in/pyökylä-bike-village-b1aa56226/
           
 DATA AND BUSINESS ANALYSIS:https://github.com/coderhani/data-and-business-analysis.git
 
