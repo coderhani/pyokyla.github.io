@@ -5,7 +5,14 @@
 ## Turku, Finland
  Han Tran _ SALES AND MARKETING COORDINATOR
 
+# CONTACT US
+
 Lets reach us here : https://www.facebook.com/TravelTurku
+LinkedIn: https://www.linkedin.com/in/han-tran-29438b13a/
+          https://www.linkedin.com/in/pyökylä-bike-village-b1aa56226/
+          
+DATA AND BUSINESS ANALYSIS:https://github.com/coderhani/data-and-business-analysis.git
+
 
 ## INTRODUCTION 
 
@@ -173,3 +180,4 @@ the future vision of PyöKylä’s services is to help reduce the bike theft iss
 
 Therefore, bike rental service is considered as the first testing step which helps PyöKylä test and develop its own future technology services that can help solve
 the bike thief issue.
+
