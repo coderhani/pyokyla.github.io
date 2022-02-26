@@ -5,7 +5,7 @@
 ## Turku, Finland
  Han Tran _ SALES AND MARKETING COORDINATOR
 
-# CONTACT US
+## CONTACT US
 
 Lets reach us here : https://www.facebook.com/TravelTurku
 LinkedIn: https://www.linkedin.com/in/han-tran-29438b13a/
